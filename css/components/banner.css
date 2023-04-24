@@ -1,0 +1,19 @@
+.banner{
+	background-image:url(../../images/backgroundimage.jpg);
+	background-size: cover ;
+	background-position: center;
+	color: white;
+	text-align: center;
+	padding: 150px 0px;
+}
+
+.banner h1{
+	font-size: 40px;
+
+}
+
+.banner a{
+	text-align: center;
+	font-family: fantasy;
+	color: whitesmoke;
+}

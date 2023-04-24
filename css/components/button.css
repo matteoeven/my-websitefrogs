@@ -1,0 +1,15 @@
+.btn-blue {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color:green;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-blue:hover {
+  background-color:green;
+}
